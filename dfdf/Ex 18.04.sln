@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 18.04", "Ex 18.04\Ex 18.04.csproj", "{C76CA234-B38D-4A6D-9BB4-D3BEB9724425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainClass", "MainClass\MainClass.csproj", "{4855CB8D-4B98-4A86-8FBA-06A109C77763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{FEA38719-275D-4FB3-8155-7C12B1A3B323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76CA234-B38D-4A6D-9BB4-D3BEB9724425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76CA234-B38D-4A6D-9BB4-D3BEB9724425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76CA234-B38D-4A6D-9BB4-D3BEB9724425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76CA234-B38D-4A6D-9BB4-D3BEB9724425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4855CB8D-4B98-4A86-8FBA-06A109C77763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4855CB8D-4B98-4A86-8FBA-06A109C77763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4855CB8D-4B98-4A86-8FBA-06A109C77763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4855CB8D-4B98-4A86-8FBA-06A109C77763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA38719-275D-4FB3-8155-7C12B1A3B323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA38719-275D-4FB3-8155-7C12B1A3B323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA38719-275D-4FB3-8155-7C12B1A3B323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA38719-275D-4FB3-8155-7C12B1A3B323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26497873-5FF7-42BF-B4F1-00B98B3953A6}
+	EndGlobalSection
+EndGlobal

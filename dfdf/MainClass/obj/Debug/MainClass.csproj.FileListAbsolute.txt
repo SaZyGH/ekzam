@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\bin\Debug\MainClass.dll
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\obj\Debug\MainClass.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\obj\Debug\MainClass.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\obj\Debug\MainClass.dll
+C:\Users\Администратор\source\repos\Ex 18.04\MainClass\obj\Debug\MainClass.pdb
